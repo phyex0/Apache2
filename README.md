@@ -58,9 +58,18 @@ Storing Apache2 Logs
 </p>            
                   
                   
+# Step 3: Setting a crontab
                   
+  <p> 
                   
+                  crontab -e
+                
+                  # runs per 1 minute.
+                  * 1 * * * /home/phyex/apache2_log_compress.bash 
                   
+                  crontab -l 
+                  
+  </p>     
                   
                   
                   
