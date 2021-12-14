@@ -4,6 +4,7 @@ Storing Apache2 Logs
 #Step1: Installing Apache2 server:
 
   <p>
+  
     sudo apt update
 
     sudo apt install apache2
