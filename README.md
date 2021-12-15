@@ -16,7 +16,7 @@ Storing Apache2 Logs
     sudo service apache2 start
    </p>
 
-# Step2: Writing a bash script that checks the APACHE2 servers logs and compres them
+# Step2: Writing a bash script that checks the APACHE2 servers logs and compress them
 
 <p>
   
